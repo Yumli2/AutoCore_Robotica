@@ -1,3 +1,8 @@
+//Autor: Yuri Lima Empresa: AutoCore Robotica
+//Blog: http://www.autocorerobotica.blog.br/
+//Loja http://www.autocorerobotica.com/
+//-------------------------------------------------
+
 #define linha1 10
 #define linha2 9
 #define linha3 8

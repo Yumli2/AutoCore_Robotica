@@ -1,4 +1,7 @@
-// Teclado Melhorado 3.ino
+//Autor: Yuri Lima Empresa: AutoCore Robotica
+//Blog: http://www.autocorerobotica.blog.br/
+//Loja http://www.autocorerobotica.com/
+//-------------------------------------------------
 
 void setup() {
 

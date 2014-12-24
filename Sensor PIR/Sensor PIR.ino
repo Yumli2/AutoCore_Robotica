@@ -1,3 +1,8 @@
+//Autor: Yuri Lima Empresa: AutoCore Robotica
+//Blog: http://www.autocorerobotica.blog.br/
+//Loja http://www.autocorerobotica.com/
+//-------------------------------------------------
+
 // Constantes com as notas
 #define DO  262
 #define RE  294

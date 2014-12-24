@@ -1,4 +1,8 @@
-// DHT.ino
+//Autor: Yuri Lima Empresa: AutoCore Robotica
+//Blog: http://www.autocorerobotica.blog.br/
+//Loja http://www.autocorerobotica.com/
+//-------------------------------------------------
+
  
 // Conecte pino 1 do sensor (esquerda) ao +5V
 // Conecte pino 2 do sensor ao pino de dados definido em seu Arduino
