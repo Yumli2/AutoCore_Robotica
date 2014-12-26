@@ -11,6 +11,7 @@
 #define SOL 392
 #define LA  440
 #define SI  523
+#define PIR 2
 
 /*Para as demais notas, acesse 
 http://www2.eca.usp.br/prof/iazzetta/tutor/acustica/introducao/tabela1.html
@@ -21,6 +22,7 @@ pinMode(3,OUTPUT);
 }
  
 void loop() {
+	if(digitalRead(PIR)==HIGH){
 
 tone(3,SOL);
 delay(1000);
@@ -130,5 +132,6 @@ tone(3,262,0.3822); //Do
 delay(2000);
 noTone(3);
 delay(5000);
+}
 
 }
