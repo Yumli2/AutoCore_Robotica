@@ -1,4 +1,7 @@
-
+//Autor: Yuri Lima Empresa: AutoCore Robotica
+//Blog: http://www.autocorerobotica.blog.br/
+//Loja http://www.autocorerobotica.com/
+//-------------------------------------------------
 int echoPin= 13; //Pino 13 recebe o pulso do echo
 int trigPin= 12; //Pino 12 envia o pulso para gerar o echo
 

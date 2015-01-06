@@ -1,4 +1,8 @@
 // Display 7 Segmento.ino
+//Autor: Yuri Lima Empresa: AutoCore Robotica
+//Blog: http://www.autocorerobotica.blog.br/
+//Loja http://www.autocorerobotica.com/
+//-------------------------------------------------
 
 void setup() {
 	Serial.begin(9600);

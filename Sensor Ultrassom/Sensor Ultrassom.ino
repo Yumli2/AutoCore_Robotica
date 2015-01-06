@@ -1,4 +1,8 @@
 // Sensor Ultrassom.ino
+//Autor: Yuri Lima Empresa: AutoCore Robotica
+//Blog: http://www.autocorerobotica.blog.br/
+//Loja http://www.autocorerobotica.com/
+//-------------------------------------------------
 #include "DHT.h"
 #define DHTPIN A1 // pino de dados 
 #define DHTTYPE DHT11 // DHT 11
