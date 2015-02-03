@@ -1,4 +1,3 @@
-// MFRC522.ino
 
 #include <SPI.h>
 #include <MFRC522.h>
@@ -105,4 +104,3 @@ void loop()
 
   
 } 
- 
