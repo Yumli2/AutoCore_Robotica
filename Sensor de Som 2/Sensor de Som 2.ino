@@ -12,7 +12,7 @@ void setup(){
  Serial.begin(9600);  	
  pinMode(pinosinal, INPUT); //Define o pino de sinal como Entrada
  for(int i=2; i<=11; i++){pinMode(i, OUTPUT);}  
-ledsledsleds
+
 
 }  
    
