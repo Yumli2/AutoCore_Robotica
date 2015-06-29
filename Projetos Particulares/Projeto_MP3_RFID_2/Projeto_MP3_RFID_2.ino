@@ -12,7 +12,7 @@ MFRC522 mfrc522(SS_PIN, RST_PIN);   // Cria uma instancia MFRC522 da biblioteca 
 //===============================================================================
 //Controle de volume
 //#define VOLUME 1
-unsigned char volume = 15; //Esse é o volume ideal para tocar a musica toda de acordo com os teste que fiz!
+unsigned char volume = 50; //Esse é o volume ideal para tocar a musica toda de acordo com os teste que fiz!
 //Quanto mais aumentar o valor menor será o volume!
 //===============================================================================
 //Controle do chip amplificador
